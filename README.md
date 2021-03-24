@@ -47,21 +47,17 @@ Game button lights when clicked and first three user stories:
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-w3schools: https://www.w3schools.com/css/css3_buttons.asp
+  w3schools: https://www.w3schools.com/css/css3_buttons.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-I had trouble identifying where to place the hover effects. I tried placing the effects for each button, but it was not working. I figured I had to place this styling under the overall styling for buttons. I also had challenges with implementing the logic for the Guess function as I did not have any prior knowledge of Javascript
+I had trouble identifying where to place the hover effects. I tried placing the effects for each button, but it was not working. After doing some research and asking other people with experience using CSS, I figured that I had to place this styling under the overall styling for buttons. I learned that one of the main things to consider when placing styling is which features need to be affected by that styling and if they can be placed under one body to reduce redundancy. I also had challenges with implementing the logic for the Guess function as I did not have any prior knowledge of Javascript. The code I wrote kept on continually running as I had not included conditions for when progress was equal to pattern length. I realized this issue after comparing it with the provided code. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-I would like to know more about styling web pages. I have seen webpages which have overlays and I am interested in knowing more about how this is achieved. Also, I am interested in knowing how game web applications are created and the frameworks that are used for styling? 
-Also, if this was to be further developed, how would we store game progress of a person (i.e. how do we connect the backend to the front-end)?
+I would like to know more about styling web pages. I have seen webpages which have overlays and I am interested in knowing more about how this is achieved. Also, I am interested in knowing how game web applications are created and the frameworks that are used for styling? I would also like to know how web games are supported on a large scale such they have high perfomance especially under stress conditions. Also, if this was to be further developed, how would we store game progress of a person (i.e. how do we connect the backend to the front-end)? I would also like to know more about the different paths available in web application development. I would also like to know how different teams cooordinate in building a web app.
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-I would spend time adding features that improve the UI of the game by using frameworks e.g. Bootstrap. 
-I would also add different categoried of things e.g animals,songs,etc. Another interesting feature would be a multi-player feature which can also keep scores.
-
-
+I would spend time adding features that improve the UI of the game by using CSS frameworks e.g. Bootstrap. Another feature that I would like to add are celebratory features, e.g a trophy, that is displayed on the screen when the user wins and another when the user loses. I would also add different categories of sounds e.g animals, songs, etc. I would also like to make sure the user can visibly see the levels of the game as they get harder so that they can measure their progress. Another interesting feature would be a multi-player feature which can also keep scores.
 
 
 ## License
