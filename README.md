@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Game button lights when clicked and first three user stories:
-![](https://github.com/Rura-M/SITE-prework/blob/main/gif/ezgif.com-gif-maker%20(1).gif)
+![](https://github.com/Rura-M/SITE-prework/blob/main/gif/ezgif.com-gif-maker%20(4).gif)
 ![](https://github.com/Rura-M/SITE-prework/blob/main/gif/Hnet-image.gif)
 ![](https://github.com/Rura-M/SITE-prework/blob/main/gif/ezgif.com-gif-maker%20(2).gif)
 
