@@ -40,8 +40,9 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![](https://github.com/Rura-M/SITE-prework/blob/main/gif/ezgif.com-gif-maker%20(5).gif)
-![](https://github.com/Rura-M/SITE-prework/blob/main/gif/Hnet-image.gif)
 ![](https://github.com/Rura-M/SITE-prework/blob/main/gif/ezgif.com-gif-maker%20(2).gif)
+![](https://github.com/Rura-M/SITE-prework/blob/main/gif/Hnet-image.gif)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
