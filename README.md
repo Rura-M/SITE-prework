@@ -38,11 +38,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+First Three user stories:
+![](https://github.com/Rura-M/SITE-prework/blob/main/gif/ezgif.com-gif-maker%20(1).gif)
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 w3schools: https://www.w3schools.com/css/css3_buttons.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
