@@ -6,8 +6,7 @@ Submitted by: Ruramaimunashe Mutefura
 
 Time spent: 3hrs
 
-Link to project: (insert your link here, should start with https://glitch.com/edit/#!/smooth-glimmer-flyingfish?path=README.md%3A1%3A0)
-
+Link to project: https://glitch.com/edit/#!/smooth-glimmer-flyingfish?path=style.css%3A1%3A0
 ## Required Functionality
 
 The following **required** functionality is complete:
@@ -55,8 +54,8 @@ Also, if this was to be further developed, how would we store game progress of e
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-I would spend them adding features that improve the UI of the game. I would want the buttons to look more better. 
-I would also add sound of other different things e.g cars, animals,etc. I would also want the game to have different categories of sounds. I would also want to include the option for the user to choose their preferred themes of the game.
+I would spend them adding features that improve the UI of the game. 
+I would also add sound of other different things e.g cars, animals,etc. I would also want the game to have different categories of sounds.
 
 
 
