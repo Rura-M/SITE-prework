@@ -4,7 +4,7 @@
 
 Submitted by: Ruramaimunashe Mutefura
 
-Time spent: 3hrs
+Time spent: 4hrs
 
 Link to project: https://glitch.com/edit/#!/smooth-glimmer-flyingfish?path=style.css%3A1%3A0
 ## Required Functionality
@@ -21,7 +21,7 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
@@ -43,19 +43,19 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[n/a] I used resources provided by CodePath
+w3schools: https://www.w3schools.com/css/css3_buttons.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 Recording gif for winning was a challenge. It was difficult for me to keep track of the 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 I would like to know more about styling web pages. I have seen webpages which have overlays and I am interested in knowing more about how this is achieved.
-Also, if this was to be further developed, how would we store game progress of each person (i.e. how do we connect the backend to the front-end)?
+Also, if this was to be further developed, how would we store game progress of a person (i.e. how do we connect the backend to the front-end)?
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-I would spend them adding features that improve the UI of the game. 
-I would also add sound of other different things e.g cars, animals,etc. I would also want the game to have different categories of sounds.
+I would spend time adding features that improve the UI of the game by using frameworks e.g. Bootstrap. 
+I would also add different categoried of things e.g animals,songs,etc. Another interesting feature would be a multi-player feature which can also keep scores.
 
 
 
