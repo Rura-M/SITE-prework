@@ -6,7 +6,7 @@ Submitted by: Ruramaimunashe Mutefura
 
 Time spent: 3hrs
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://glitch.com/edit/#!/smooth-glimmer-flyingfish?path=README.md%3A1%3A0)
 
 ## Required Functionality
 
