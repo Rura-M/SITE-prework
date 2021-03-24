@@ -49,10 +49,10 @@ Game button lights when clicked and first three user stories:
 w3schools: https://www.w3schools.com/css/css3_buttons.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-Recording gif for winning was a challenge. It was difficult for me to keep track of the 
+I had trouble identifying where to place the hover effects. I tried placing the effects for each button, but it was not working. I figured I had to place this styling under the overall styling for buttons.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-I would like to know more about styling web pages. I have seen webpages which have overlays and I am interested in knowing more about how this is achieved.
+I would like to know more about styling web pages. I have seen webpages which have overlays and I am interested in knowing more about how this is achieved. Also, I am interested in knowing how game web applications are created and the frameworks that are used for styling? 
 Also, if this was to be further developed, how would we store game progress of a person (i.e. how do we connect the backend to the front-end)?
 
 
