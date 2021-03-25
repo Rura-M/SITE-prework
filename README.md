@@ -57,7 +57,7 @@ I would like to know more about styling web pages. I have seen webpages which ha
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-I would spend time adding features that improve the UI of the game by using CSS frameworks e.g. Bootstrap. Another feature that I would like to add are celebratory features, e.g a trophy, that is displayed on the screen when the user wins and another when the user loses. I would also add different categories of sounds e.g animals, songs, etc. I would also like to make sure the user can visibly see the levels of the game as they get harder so that they can measure their progress. Another interesting feature would be a multi-player feature which can also keep scores.
+I would spend time adding features that improve the UI of the game by using CSS frameworks e.g. Bootstrap. Another feature that I would like to add are celebratory features, e.g a trophy, that is displayed on the screen when the user wins and another when the user loses. I would also add different categories of sounds e.g animals, songs, etc. I would also explicitly add levels of difficulty so that the user can easily measure their progress. Another interesting feature would be a multi-player feature which can also keep scores.
 
 
 ## License
