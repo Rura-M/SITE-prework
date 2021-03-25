@@ -33,7 +33,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [x] The buttons produce a shadow and a highlight when they are hovered over.
 
 ## Video Walkthrough
 
